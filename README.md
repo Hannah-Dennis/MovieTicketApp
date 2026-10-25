@@ -1,4 +1,9 @@
 an app that allows you to add and explore movies. (fits the theme of Outside)
+you can also delete, add images and year for the movies.
+I created this app using swift on Xcode
+
+to try it out, go to: https://appetize.io/app/b_eoymu3ovxu6j5kkjgbrxpxjawu
+
 
 <img width="373" height="755" alt="Screenshot 2026-10-26 at 01 33 32" src="https://github.com/user-attachments/assets/d06e45b3-ee06-41ed-9afe-a60233fda8ae" />
 
